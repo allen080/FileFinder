@@ -1,6 +1,6 @@
 # Buscador de Arquivos em Diretórios e SubDiretorios no Computador (Windows)
 ## Autor: Luan Fellipe (allen08)
-## Plataforma (Linguagem): AutoHotKey
+### Plataforma (Linguagem): AutoHotKey
 
 ### [*] Uso:
     - Execute o arquivo FileFinder.exe ou FileFinder.ahk se você tiver o AutoHotKey devidamente instalado no dispositivo.
