@@ -3,6 +3,7 @@
 ### Plataforma (Linguagem): AutoHotKey
 
 ### [*] Uso:
+
     1. Execute o arquivo FileFinder.exe ou FileFinder.ahk se você tiver o AutoHotKey devidamente instalado no dispositivo.
 
     2. Arraste a pasta desejada para busca do arquivo até o programa ou clique no icon da pasta na direita e selecione a pasta desejada.
